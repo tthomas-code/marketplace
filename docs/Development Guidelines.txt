@@ -1,0 +1,21 @@
+Market Place dev enivronment setup
+===================================
+Download and install the following:
+Java (JDK)
+Spring
+Maven
+Tomcat
+Eclipse
+Intellij Idea
+Netbeans
+7Zip
+Brackets
+Apache Active MQ
+
+Configure Path
+====================
+JDK Bin folder
+Maven Bin folder
+
+Configure Classpath (Buildpath) in Intellij
+=============================================
