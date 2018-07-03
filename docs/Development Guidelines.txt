@@ -1,4 +1,4 @@
-Market Place dev enivronment setup
+Emtalent dev enivronment setup
 ===================================
 Download and install the following:
 Java (JDK)

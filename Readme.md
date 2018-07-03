@@ -1,7 +1,7 @@
 Emtalent Market Place.
 ======================
 
-A market place application for books.
+A market place application for books. [Development not started]
 
 System Requirements
 ===================
